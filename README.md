@@ -1,2 +1,2 @@
 # intern-scripts
-automatic script about task to be service operation Intern in PT Melon Indonesia
+Automatic script about task to be Service Operation Intern in PT Melon Indonesia
